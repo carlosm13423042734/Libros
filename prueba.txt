@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0"?> Hola
 <catalog>
    <book id="bk101">
       <author>Gambardella, Matthew</author>
